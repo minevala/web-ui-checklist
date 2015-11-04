@@ -25,6 +25,6 @@ by <a href="http://codylindley.com/" target="_blank">Code Lindley</a>
 - <a href="https://web-design-weekly.com/" target="_blank">Web Design Weekly</a>
  - <a href="https://twitter.com/wdweekly" target="_blank">wdweekly in Twitter</a>
 - <a href="http://html5weekly.com/" target="_blank">HTML5 Weekly</a>
-- <a href="http://reactjsnewsletter.com/" target="_blank">React.js Weekly</a>
+- <a href="http://reactjsnewsletter.com/" target="_blank">React.js Newsletter</a>
  - <a href="https://twitter.com/reactnewsletter" target="_blank">reactnewsletter in Twitter</a>
 - <a href="http://cur.ng-newsletter.com/" target="_blank">Ng-newsletter</a>
