@@ -20,7 +20,7 @@ by <a href="http://codylindley.com/" target="_blank">Code Lindley</a>
 - <a href="http://www.sitepoint.com/" target="_blank">SitePoint</a>
 
 ###NewsLetters
-- <a href="http://css-weekly.com/" target="_blank">CSS-weekly</a> by <a href="https://twitter.com/ZoranJambor" target="_blank">Zoran Jambor</a>
+- <a href="http://css-weekly.com/" target="_blank">CSS Weekly</a> by <a href="https://twitter.com/ZoranJambor" target="_blank">Zoran Jambor</a>
 - <a href="https://responsivedesign.is/" target="_blank">Responsive Design Weekly</a>
 - <a href="https://web-design-weekly.com/" target="_blank">Web Design Weekly</a>
  - <a href="https://twitter.com/wdweekly" target="_blank">wdweekly in Twitter</a>
