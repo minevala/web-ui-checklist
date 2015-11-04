@@ -20,12 +20,11 @@ by <a href="http://codylindley.com/" target="_blank">Code Lindley</a>
 - <a href="http://www.sitepoint.com/" target="_blank">SitePoint</a>
 
 ###NewsLetters
-- <a href="Css Weekly" target="_blank">http://css-weekly.com/</a> by <a href="https://twitter.com/ZoranJambor" target="_blank">Zoran Jambor</a>
+- <a href="http://css-weekly.com/" target="_blank">CSS-weekly</a> by <a href="https://twitter.com/ZoranJambor" target="_blank">Zoran Jambor</a>
 - <a href="https://responsivedesign.is/" target="_blank">Responsive Design Weekly</a>
 - <a href="https://web-design-weekly.com/" target="_blank">Web Design Weekly</a>
  - <a href="https://twitter.com/wdweekly" target="_blank">wdweekly in Twitter</a>
 - <a href="http://html5weekly.com/" target="_blank">HTML5 Weekly</a>
 - <a href="http://reactjsnewsletter.com/" target="_blank">React.js Weekly</a>
-- [React.js Weekly](http://reactjsnewsletter.com/)
  - <a href="https://twitter.com/reactnewsletter" target="_blank">reactnewsletter in Twitter</a>
 - <a href="http://cur.ng-newsletter.com/" target="_blank">Ng-newsletter</a>
