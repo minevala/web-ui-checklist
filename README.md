@@ -2,7 +2,7 @@
 List of front-end resources
 
 ####CSS
-- [CSS-tricks](https://css-tricks.com/)
+- [CSS-tricks](https://css-tricks.com/ "css-tricks" target="_blank")
 
 ###Front-end 
 - [Front-end Handbook](https://www.gitbook.com/book/frontendmasters/front-end-handbook/details) by [Cody Lindley](http://codylindley.com/)
